@@ -57,12 +57,12 @@
 <p>The User Journey is pretty straight-forward for a simple institutional website, for instance: (1) <strong>Awareness</strong>, the first contact with your Brand and considering entering the website. Think of the context. Where is the user most likely to find your brand? is it on social media, a Google search, other?, (2) <strong>Consideration</strong>, entering and browsing the website. Think of which information would take to convince the user to fulfil his&thinsp;/&thinsp;her goal. and (3) <strong>Conversion</strong>, completing the desired goal, i.e., filling out the website's contact form.</p>
 <p>However, for a more elaborate application we must consider the steps necessary for the User to Sign-up and use the app's features. In the case of developing an app, we can differentiate two types of User Journeys. (1) <strong>Critical User Journeys</strong>, including downloading the app, signing-up, on-boarding, etc; and (2) <strong>Toothbrush User Journeys</strong>, the activities and features that a user would use recurrently.</p>
 <small>The Polyfen Group</small>
-<blockquote><strong>1. Awareness</strong><br/>
+<blockquote><p><strong>1. Awareness</strong><br/>
 The user finds our Brand on social media. For this we will require to generate social media content and promote it to get not only organic reach, but also paid reach through Instagram and LinkedIn campaigns. The ads for our Primary target group should attract prospective consumers by enticing our services and showing how they can benefit from our services with the aim of leading them to enter our website.<br/><br/>
 <strong>2. Consideration</strong><br/>
 Enticed by our social media content, the user enters our website with the aim of learning more about our service offer. For this our website must have an informative About section, Case Studies of our work, a breakdown of our Services offer, a Contact Form, and links to our Social Media channels. Additionally, considering the traffic belonging to the Instagram and LinkedIn marketing campaigns, the website should include a bespoke Landing Page offering a valuable solution to the personas, such as a Free Brand Audit by completing a contact form.<br/><br/>
 <strong>3. Conversion</strong><br/>
-The Primary personas should be enticed by our services and fill in our contact form to request a quote for a Branding project.</blockquote>
+The Primary personas should be enticed by our services and fill in our contact form to request a quote for a Branding project.</p></blockquote>
 <hr class="second-separator">
 <h3 id="user-flow">5.3. User Flow</h3>
 <small>Task</small>
@@ -203,7 +203,7 @@ The Primary personas should be enticed by our services and fill in our contact f
 <p>First of all, Testing should be a continuous practice built into the Branding process not only for the Digital Product Development, but also to Test the Brand Perception and improve the perceived value of your Brand Identity. However, at this point we'll be focusing on Testing the Usability of your Digital Product. Also, some UX Designers encourage the Design community to also put the Wireframes to a Test, before moving on to the Design Comps.</p>
 <p>There are many different ways to put your designs to a test and validate your User Stories, or if necessary, define which changes need to be made to the design.</p>
 <p>An important statistic to keep in mind at this point is that, according to usability experts Jakob Nielsen and Tom Landauer:</p>
-<blockquote>By testing with just five users, you can uncover 85% of the usability issues with a product.</blockquote>
+<blockquote><p>By testing with just five users, you can uncover 85% of the usability issues with a product.</p></blockquote>
 <p>Keep in mind however, that the sample of Test Subjects that you use should be directly related to the User Personas you've defined for your product.</p>
 <p>Now, in regards to the Testing Method, there are multiple options that can be chosen depending on the scope, timeframe, and budget of the Digital Product Development project. Additionally, some Testing Methods can be performed in-person or remotely, and they can also be either moderated, with more intervention by the Researchers, or unmoderated, with less intervention by the Researches. Namely:</p>
 <h5>1. Card Sorting</h5>

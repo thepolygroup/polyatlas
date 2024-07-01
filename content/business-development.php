@@ -35,7 +35,7 @@
     </ol>
     </div>
     <small>The Polyfen Group</small>
-    <blockquote><strong>The Polyfen Group</strong> incorporates multiple sub-brands segmenting different services, organisations, and products all related to the creative industry; especially to the Branding process.
+    <blockquote><p><strong>The Polyfen Group</strong> incorporates multiple sub-brands segmenting different services, organisations, and products all related to the creative industry; especially to the Branding process.
     <br/>
     <br/>
     <strong>Polyfen</strong>, a creative agency offering Brand Identity Design services for new and emerging businesses. <a href="http://polyfen.com" target="_blank">polyfen.com</a>
@@ -50,7 +50,7 @@
     The goal of The Polyfen Group is to serve integral Branding solutions for every step of the process while segmenting our subsidiary Brands each one tailored for a different target group.
     <br/>
     <br/>
-    Further information can be found on our <strong>Business Plan</strong> available at › <a href="http://thepolyfengroup.com/business-plan" target="_blank">thepolyfengroup.com/business-plan</a></blockquote>
+    Further information can be found on our <strong>Business Plan</strong> available at › <a href="http://thepolyfengroup.com/business-plan" target="_blank">thepolyfengroup.com/business-plan</a></p></blockquote>
     <hr class="third-separator">
     <h4 class="heading-3" id="target-public-analysis">1.2. Target Public Analysis</h4>
     <small>Task</small>
@@ -218,7 +218,7 @@
     <small>Description</small>
     <p>After considering all the surveyed information summarise your key insights regarding the business and which direction would be most effective for the Brand Strategy.</p>
     <small>The Polyfen Group</small>
-    <blockquote>Our business model is a compelling take against our competition and has the potential to become a leader of the creative industry through attracting, engaging, and delighting our target public.</blockquote>
+    <blockquote><p>Our business model is a compelling take against our competition and has the potential to become a leader of the creative industry through attracting, engaging, and delighting our target public.</p></blockquote>
 
     <hr class="second-separator">
 

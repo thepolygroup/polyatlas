@@ -32,7 +32,7 @@
 <p>In the digital age, more and more Brands are taking a stand to voice their opinions on <strong>socio-political matters.</strong> This is a risky and polarising move for Brands since they can gain the respect and loyalty of some Public Groups who share their socio-political views; However, on the other hand, they can also suddenly loose the support of long-time followers.</p>
 <p>American Football player Colin Kaepernick was the first of many athletes to kneel during the national anthem played before each NFL game as a form of passive protest against police brutality and racial oppression. After <a href="https://www.nike.com/" target="_blank">Nike</a> endorsed Kaepernick in a series of adverts, backlash ensued with a viral wave of conservative groups going so far as to burn their costly Nike shoes as a way to boycott the company.</p>
 <small>The Polyfen Group</small>
-<blockquote>Our parent brand has a <strong>quiet voice</strong> and let’s the sub-brands do all the speaking. For instance, TPG’s Twitter account should be focused on Retweeting all posts by its subsidiary brands.</blockquote>
+<blockquote><p>Our parent brand has a <strong>quiet voice</strong> and let’s the sub-brands do all the speaking. For instance, TPG’s Twitter account should be focused on Retweeting all posts by its subsidiary brands.</p></blockquote>
 <hr class="second-separator">
 <h4 id="tone">1.2. Tone</h4>
 <small>Task</small>
@@ -63,8 +63,8 @@
     <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/h0TRpGP8yH4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <small>The Polyfen Group</small>
-<blockquote>TPG’s brand by itself has a quiet, no-frills, professional tone.
-</blockquote>
+<blockquote><p>TPG’s brand by itself has a quiet, no-frills, professional tone.
+</p></blockquote>
 <img loading="lazy" src="imgs/IMG_TPG_Brand-Personality.webp">
 <hr class="second-separator">
 <h4 id="keywords">1.3. Keywords</h4>
@@ -112,14 +112,14 @@
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dR-ZT8mhfJ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-<blockquote>This is a very complicated world; it’s a very noisy world, and we’re not gonna get a chance to get people to remember much about us. No company is. And so we have to be really clear on what we want them to know about us. […] Our customers want to know who is Apple and what is it that we stand for, where do we fit in this world. [...] Apple at its core, its core value, is that we believe that people with passion can change the world for the better. [...] The theme of the campaign is <strong>“think different”</strong>. It’s honouring the people who think different and who move this world forward, and it is what we are about; it touches the soul of this company. —Steve Jobs</blockquote>
+<blockquote><p>This is a very complicated world; it’s a very noisy world, and we’re not gonna get a chance to get people to remember much about us. No company is. And so we have to be really clear on what we want them to know about us. […] Our customers want to know who is Apple and what is it that we stand for, where do we fit in this world. [...] Apple at its core, its core value, is that we believe that people with passion can change the world for the better. [...] The theme of the campaign is <strong>“think different”</strong>. It’s honouring the people who think different and who move this world forward, and it is what we are about; it touches the soul of this company. —Steve Jobs</p></blockquote>
 <hr class="third-separator">
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/epPS_DjEWWY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-<blockquote>You must focus your Branding efforts on owning a word in the prospect’s mind. A word that no one else owns. What “prestige” is to Mercedes, <strong>“safety”</strong> is to Volvo. —Al & Laura Ries</blockquote>
+<blockquote><p>You must focus your Branding efforts on owning a word in the prospect’s mind. A word that no one else owns. What “prestige” is to Mercedes, <strong>“safety”</strong> is to Volvo. —Al & Laura Ries</p></blockquote>
 <small>The Polyfen Group</small>
-<blockquote>Re-thinking Branding for the Internet Age</blockquote>
+<blockquote><p>Re-thinking Branding for the Internet Age</p></blockquote>
 <hr class="second-separator">
 <h4 id="moodboard">1.5. Moodboard</h4>
 <small>Task</small>
@@ -251,7 +251,7 @@
 <img loading="lazy" src="imgs/tesla.webp">
 <p>The best thing about electric car manufacturer <a href="https://www.tesla.com/" target="_blank">Tesla’s</a> Brand Name is not only that is short, easy to pronounce, and easy to spell; but, it also has the added value of referencing an historical figure (Nikola Tesla) very much relevant to the vision and mission of the company.</p>
 <small>The Polyfen Group</small>
-<blockquote>To understand the name of The Polyfen Group’s brand we must first acknowledge that Polyfen was our original business unit, our first Brand. Once we expanded our business to include Poly Atlas we decided to maintain a certain consistency that binds all our portfolio of Brands together with the suffix “Poly”. Hence, we naturally came up with “The Polyfen Group” as the name of our parent, corporate-facing Brand.</blockquote>
+<blockquote><p>To understand the name of The Polyfen Group’s brand we must first acknowledge that Polyfen was our original business unit, our first Brand. Once we expanded our business to include Poly Atlas we decided to maintain a certain consistency that binds all our portfolio of Brands together with the suffix “Poly”. Hence, we naturally came up with “The Polyfen Group” as the name of our parent, corporate-facing Brand.</p></blockquote>
 <hr class="third-separator">
 <small>Task</small>
 <h5>Define the Naming Architecture</h5>
@@ -280,10 +280,10 @@
 <p>A diminutive alternative for casual use, especially amongst the members of the business. For instance “Poly” for “Polyfen”, “fb” for “Facebook”, or “Insta” for “Instagram”.</p>
 </div>
 <small>The Polyfen Group</small>
-<blockquote><strong>Primary Brand Name:</strong> The Polyfen Group</br></br>
+<blockquote><p><strong>Primary Brand Name:</strong> The Polyfen Group</br></br>
 <strong>Fallback Brand Name:</strong> The Polyfen Group Co</br></br>
 <strong>Judicial Business Name:</strong> The Polyfen Group Co LLC</br></br>
-<strong>Diminutive Name:</strong> Poly</blockquote>
+<strong>Diminutive Name:</strong> Poly</p></blockquote>
 <hr class="second-separator">
 <h4 id="brand-architecture">1.7. Brand architecture</h4>
 <small>Task</small>
@@ -309,17 +309,17 @@
 <small>Case studies</small>
 <h6>Monolithic brand Architecture</h6>
 <img loading="lazy" src="imgs/fedex.webp">
-<blockquote>Characterised by a strong, single Master-Brand. Customers make choices based on Brand loyalty. Features and benefits matter less to the consumer than the Brand promise and persona. Brand extensions use the parent’s identity, and generic descriptors. — Alina Wheeler, “Designing Brand Identity”</blockquote>
+<blockquote><p>Characterised by a strong, single Master-Brand. Customers make choices based on Brand loyalty. Features and benefits matter less to the consumer than the Brand promise and persona. Brand extensions use the parent’s identity, and generic descriptors. — Alina Wheeler, “Designing Brand Identity”</p></blockquote>
 <p>The FedEx Corporation counts with a Sub-Brand for each of its business  divisions. All easily identified as part of the FedEx family.</p>
 <hr class="third-separator">
 <h6>Endorsed Brand Architecture</h6>
 <img loading="lazy" src="imgs/nike-jordan.webp">
-<blockquote>Characterised by marketing synergy between the product or division, and the parent. The product or division has a clearly defined market presence, and benefits from the association, endorsement, and visibility of the parent. — Alina Wheeler, “Designing Brand Identity”</blockquote>
+<blockquote><p>Characterised by marketing synergy between the product or division, and the parent. The product or division has a clearly defined market presence, and benefits from the association, endorsement, and visibility of the parent. — Alina Wheeler, “Designing Brand Identity”</p></blockquote>
 <p>Nike counts with a line of products inspired by the famous basketball player Michael Jordan; the iconic shoes and apparel belonging to the “Jordan” collection can be identified with its own logo as belonging to a separate Brand from Nike. However, on most Jordan products, the Nike logo is also prominently displayed.</p>
 <hr class="third-separator">
 <h6>Pluralistic Brand Architecture</h6>
 <img loading="lazy" src="imgs/unilever.webp">
-<blockquote>Characterised by a series of well-known consumer Brands. The name of the parent may be either invisible or inconsequential to the consumer, and known only to the investment community. Many parent companies develop a system for corporate endorsement that is tertiary. — Alina Wheeler, “Designing Brand Identity”</blockquote>
+<blockquote><p>Characterised by a series of well-known consumer Brands. The name of the parent may be either invisible or inconsequential to the consumer, and known only to the investment community. Many parent companies develop a system for corporate endorsement that is tertiary. — Alina Wheeler, “Designing Brand Identity”</p></blockquote>
 <p>Even though Unilever’s Sub-Brands are publicly endorsed by their parent company, each Sub-Brand is marketed strongly so the consumers will identify them independently of Unilever.</p>
 <hr class="third-separator">
 <h6>Colab brand architecture</h6>
@@ -342,7 +342,7 @@
 <p>The business operating as the FedEx Corporation is responsible for managing seven subsidiary divisions. While the business structure positions the corporate division on top, for the tar get public, the Brand Identity places the Sub-Brand on the same level as the subsidiaries, all under the umbrella of the FedEx Master-Brand.</p>
 <small>The Polyfen Group</small>
 <img loading="lazy" src="imgs/the-poly-group-architecture.webp">
-<blockquote>Our Brand Architecture is defined as an “Endorsed Brand Architecture”; However, there is an evident relationship between the family of Brands both in their Brand Names and Logo Systems. This aspect, often found in “Monolithic Brand Architecture”, aims to bind the family of Brands together and leverage our Brand Awareness.</blockquote>
+<blockquote><p>Our Brand Architecture is defined as an “Endorsed Brand Architecture”; However, there is an evident relationship between the family of Brands both in their Brand Names and Logo Systems. This aspect, often found in “Monolithic Brand Architecture”, aims to bind the family of Brands together and leverage our Brand Awareness.</p></blockquote>
 <hr>
 <h4 id="key-messages">1.8. Key Messages</h4>
 <p>The goal of the Key Messages is to narrow down the Brand's Voice and Tone into concise paragraphs focusing on expressing different aspects of the Brand. These paragraphs can be used across different Brand Communications including the Brand's Facebook page, Website, and Social media profiles.</p>
@@ -356,7 +356,7 @@
 <p>The first paragraph of the Key Messages should concisely describe the purpose and the people behind the business; How many people work in the business? Is it a new business or an established business? Where is it geographically based? What service&thinsp;/&thinsp;product does the business offer? What's the vision&thinsp;/&thinsp;mission of the business? What do the members of the business have in common, what brought them together?</p>
 <p>This paragraph should be particularly useful for an "About" section of a website, and for the "About" section of the business' Facebook page.</p>
 <small>The Polyfen Group</small>
-<blockquote>The Polyfen Group is a location-independent team with HQ in Mar del Plata, Argentina. Our team is small, but efficient and experienced. Additionally, we count with a vast network of expert consultants in Business Development, Creative services, Sociology, and IT. Our team works remotely, distributed in Argentina, Europe, the USA, and Australia; We are highly organised for seamless remote work.</blockquote>
+<blockquote><p>The Polyfen Group is a location-independent team with HQ in Mar del Plata, Argentina. Our team is small, but efficient and experienced. Additionally, we count with a vast network of expert consultants in Business Development, Creative services, Sociology, and IT. Our team works remotely, distributed in Argentina, Europe, the USA, and Australia; We are highly organised for seamless remote work.</p></blockquote>
 <hr class="third-separator">
 <small>Task</small>
 <h5>Write a Services&thinsp;/&thinsp;Products paragraph</h5>
@@ -367,7 +367,7 @@
 <small>Description</small>
 <p>Breakdown the business offer and list the most appealing features of the business offer; What problem does the business solve for its target public?</p>
 <small>The Polyfen Group</small>
-<blockquote>The Polyfen Group offers integral Branding solutions for emerging businesses worldwide; Namely, Polyfen offers Brand Identity Design. Additionally, we count with a digital product, Poly Atlas, a free guide to the Branding process; and a non-profit organization, Poly Forum, dedicated to promoting free and open education and networking in the creative industry.</blockquote>
+<blockquote><p>The Polyfen Group offers integral Branding solutions for emerging businesses worldwide; Namely, Polyfen offers Brand Identity Design. Additionally, we count with a digital product, Poly Atlas, a free guide to the Branding process; and a non-profit organization, Poly Forum, dedicated to promoting free and open education and networking in the creative industry.</p></blockquote>
 <hr class="third-separator">
 <small>Task</small>
 <h5>Write a Differential paragraph</h5>
@@ -377,7 +377,7 @@
 <p>0.5&thinsp;&ndash;&thinsp;1.5 hours</p>
 <small>Description</small>
 <p>How does the business stand out over its competition? What its USP (Unique Selling Proposition)?</p>
-<blockquote>The Polyfen Group’s business model with segmented Sub-Brands allow us to provide holistic solutions to our customers while ensuring that each part of the Branding process is taken care of by a team which specialises on each service we offer. Additionally, our location-independent business model allows us to offer high-quality services at competitive prices.</blockquote>
+<blockquote><p>The Polyfen Group’s business model with segmented Sub-Brands allow us to provide holistic solutions to our customers while ensuring that each part of the Branding process is taken care of by a team which specialises on each service we offer. Additionally, our location-independent business model allows us to offer high-quality services at competitive prices.</p></blockquote>
 <hr class="third-separator">
 <small>Task</small>
 <h5>Write a Summary paragraph</h5>
@@ -388,7 +388,7 @@
 <small>Description</small>
 <p>Summarise the previous three paragraphs (About, Services&thinsp;Products, Differential) into a single, concise paragraph.</p>
 <small>The Polyfen Group</small>
-<blockquote>The Polyfen Group is a small, efficient location-independent business incorporating different organisations, services, and products centred on the Branding process offering high-quality work at competitive prices.</blockquote>
+<blockquote><p>The Polyfen Group is a small, efficient location-independent business incorporating different organisations, services, and products centred on the Branding process offering high-quality work at competitive prices.</p></blockquote>
 <hr class="third-separator">
 <small>Task</small>
 <h5>Write an Bio sentence</h5>
@@ -400,4 +400,4 @@
 <p>Narrow down the Summary paragraph into a single, short sentence.</p>
 <p>This sentence is particularly useful as a Bio line for Twitter and Instagram profiles.</p>
 <small>The Polyfen Group</small>
-<blockquote>The Polyfen Group incorporates a suite of organisations, services, and products centred on the Branding process.</blockquote>.5 hours</p>
+<blockquote><p>The Polyfen Group incorporates a suite of organisations, services, and products centred on the Branding process.</p></blockquote>.5 hours</p>
