@@ -37,7 +37,7 @@
   <meta name="theme-color" content="#01C9B5">
 
   <!-- CSS General -->
-  <link rel="stylesheet" href="https://polykit.xyz/app/css/polykit-v0-3.css" type="text/css">
+  <link rel="stylesheet" href="/app/css/polykit-v0-3.css" type="text/css">
   <!-- CSS Page-Specific-->
 
   <!-- Google Tag Manager -->
