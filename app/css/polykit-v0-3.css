@@ -2390,7 +2390,7 @@ li.wp-block-post::before {
   --accent-color-800: hsl(var(--accent-color-h), var(--accent-color-s), var(--accent-color-l-800));
   --accent-color-900: hsl(var(--accent-color-h), var(--accent-color-s), var(--accent-color-l-900));
   --accent-color-50pct: hsla(var(--accent-color-h), var(--accent-color-s), var(--accent-color-l), 0.5);
-  --light-mode-background: #EDF0F7;
+  --light-mode-background: #EFF4FB;
   --dark-mode-background: var(--slate-950);
 }
 
